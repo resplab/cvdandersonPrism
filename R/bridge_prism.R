@@ -1,3 +1,10 @@
+#' @title Run CVDANDERSON Model
+#' @description This function calls the CVDANDERSON model.
+#' @param model_input A list/json object with "gender", "age",
+#' "Tchol","HDLchol","SBP", "DBP", "diabetes",
+#' "smoker" , "ECG_LVH" , "t"
+#' @return Return a dataset with three columns: risk_Outcome, systolicbase_risk, and diastolicbase_risk
+
 model_run<-function(model_input = NULL)
 {
 

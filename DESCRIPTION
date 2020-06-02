@@ -3,7 +3,6 @@ Title: Peer Models Network PRISM Bridge for the Model CVDANDERSON
 Version: 0.1.0
 Authors@R: c(
     person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cph")),
-    person("Safa", "Ahmadian", email = "safa.ahmadian@alumni.ubc.ca", role = c("aut")),
     person("Mohsen", "Sadatsafavi", email = "mohsen.sadatsafavi@ubc.ca", role = c("aut", "cre")))
 Description: Peer Model Network PRISM wrapper for CVDANDERSON.
 License: GPL-3
